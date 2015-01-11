@@ -1,0 +1,4 @@
+.text {font-family: Arial, Helvetica, sans-serif; font-size: 11pt; color:#000000; text-decoration:none; font-weight: normal;  line-height : 17pt; }
+.textsmall {font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color:#000000; text-decoration:none; font-weight: normal;  }
+.links {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color:#000000; text-decoration:none; font-weight: normal;  }
+.links:hover {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color:#000000; text-decoration:underline; font-weight: normal;  }
